@@ -1,20 +1,13 @@
 {
-  "githubRepo": "NuvioMedia/NuvioTVSmart",
+  "githubRepo": "amrit-regmi/NuvioTVSmart",
   "webos": {
     "appId": "space.nuvio.webos",
     "assetPattern": "\\.ipk$"
   },
   "tizen": {
-    "appId": "NuvioTV001.NuvioTV",
-    "packageId": "NuvioTV001",
-    "appIds": [
-      "NuvioTV001.NuvioTV",
-      "NuvioTV001",
-      "NuvioTV001.Nuvio",
-      "Nuvio",
-      "NuvioTV.NuvioTV",
-      "NuvioTV"
-    ],
+    "appId": "CineX00001.CineX",
+    "packageId": "CineX00001",
+    "appIds": ["CineX00001.CineX", "CineX00001"],
     "assetPattern": "\\.wgt$"
   }
 }
